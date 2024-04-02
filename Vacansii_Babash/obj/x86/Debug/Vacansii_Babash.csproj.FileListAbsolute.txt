@@ -1,0 +1,11 @@
+C:\Users\user2\source\repos\Vacansii_Babash\bin\x86\Debug\Vacansii_Babash.exe.config
+C:\Users\user2\source\repos\Vacansii_Babash\bin\x86\Debug\Vacansii_Babash.exe
+C:\Users\user2\source\repos\Vacansii_Babash\bin\x86\Debug\Vacansii_Babash.pdb
+C:\Users\user2\source\repos\Vacansii_Babash\obj\x86\Debug\Vacansii_Babash.csproj.AssemblyReference.cache
+C:\Users\user2\source\repos\Vacansii_Babash\obj\x86\Debug\Vacansii_Babash.Form1.resources
+C:\Users\user2\source\repos\Vacansii_Babash\obj\x86\Debug\Vacansii_Babash.Properties.Resources.resources
+C:\Users\user2\source\repos\Vacansii_Babash\obj\x86\Debug\Vacansii_Babash.csproj.GenerateResource.cache
+C:\Users\user2\source\repos\Vacansii_Babash\obj\x86\Debug\Vacansii_Babash.csproj.CoreCompileInputs.cache
+C:\Users\user2\source\repos\Vacansii_Babash\obj\x86\Debug\Vacansii_Babash.exe
+C:\Users\user2\source\repos\Vacansii_Babash\obj\x86\Debug\Vacansii_Babash.pdb
+C:\Users\user2\source\repos\Vacansii_Babash\obj\x86\Debug\Vacansii_Babash.Form2.resources
